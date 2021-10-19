@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "2f5f53a2028763e64999553b947c0c6b",
-"/": "2f5f53a2028763e64999553b947c0c6b",
+  "index.html": "77bf38d01d0607d4e00803ed7cd223c6",
+"/": "77bf38d01d0607d4e00803ed7cd223c6",
 "assets/assets/eat/sudogwon/cafeNbakery/4.png": "2e0c1efc14c1ee9c0a265c3ad53debcc",
 "assets/assets/eat/sudogwon/cafeNbakery/2.png": "a417780e5f8052a179373e795375e2c5",
 "assets/assets/eat/sudogwon/cafeNbakery/3.png": "a2ba02d7cac7e40a2bd96b6b88b2d67b",
@@ -36,12 +36,18 @@ const RESOURCES = {
 "assets/assets/gangwon/2.png": "f20c80b5ed47bc247f5bf937ec651029",
 "assets/assets/gangwon/3.png": "b0d295aec2dc0ef15bdd1ab156b84e81",
 "assets/assets/gangwon/1.jpeg": "0e727ddc3b8ae078550307c79a94bb92",
+"assets/assets/magazine_cover_images/003.png": "d7b24f9d35dc9d1bfbcaac730be53ae8",
+"assets/assets/magazine_cover_images/004.png": "1771bb76cb39eb2102468db9df4de608",
+"assets/assets/magazine_cover_images/000.png": "22a08e27bf932ad86c3b32d411760ed5",
+"assets/assets/magazine_cover_images/002.png": "102469180cebc2467694026e5ce3e538",
+"assets/assets/magazine_cover_images/001.png": "9778a3ce1755791d12c23b0a7b401132",
 "assets/assets/magazine_main/magazine_background.png": "9e3bc0aeb036717b14c0aa2a144de147",
 "assets/assets/magazine_main/paper_plane.png": "654a00485b3f0e031cd098252c7c6a2e",
 "assets/assets/magazine_main/logo.png": "0eb07c03a43eeb4cae17d58db58212f8",
 "assets/assets/magazine_main/drawer.png": "56d68c13bfd85b7deafe89470267ceb6",
 "assets/assets/magazine_main/logo_white.png": "48837fa5f047a99d6d74407220509760",
 "assets/assets/invalid_name.png": "08dd1e40328466b9a8473b0b64c0ab32",
+"assets/assets/event.png": "97d224d88f03c8d65cf91c485189781c",
 "assets/assets/after_rain/2.JPG": "a9bc075b2043bcc5ebcde9e3ec4300f9",
 "assets/assets/after_rain/3.png": "a87e09bb0a62ed771dcb333be6da8983",
 "assets/assets/after_rain/1.png": "39429ba380b2accaa54fa70539cbdaf0",
@@ -77,14 +83,14 @@ const RESOURCES = {
 "assets/fonts/NotoSansCJKkr/NotoSansKR-Bold.otf": "b59ac7cf449e57469daf2480fafbddf4",
 "assets/fonts/Inter/static/Inter-Regular.ttf": "515cae74eee4925d56e6ac70c25fc0f6",
 "assets/fonts/Inter/static/Inter-ExtraBold.ttf": "bd9525f1099e9f5845f6aef2956e9fb8",
-"assets/NOTICES": "a6167554bea266c2dd460247adae3125",
+"assets/NOTICES": "4a50d0d4d2d41316ff747f08d090efe1",
 "assets/FontManifest.json": "c42b0d53b83853f7b0872011561ffc0b",
-"assets/AssetManifest.json": "42fea1ad6927352784e1b22856e2f1a4",
+"assets/AssetManifest.json": "432da2e8cb217487fa671582948330c6",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "e0cb228224a11b6f0d6da96bdde9992a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "8df1ddee86ab824dff6375248c8633b4",
+"main.dart.js": "437ef48939f1f83e0818392d8707eb82",
 "version.json": "56a467f92189608ae9e57b3f701bdc33"
 };
 
