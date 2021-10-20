@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "05afdfac71823aef2e34604f995f3123",
-"/": "05afdfac71823aef2e34604f995f3123",
+  "index.html": "a6140438ecfb3fb3a8dc9eed83ad0f53",
+"/": "a6140438ecfb3fb3a8dc9eed83ad0f53",
 "assets/assets/eat/sudogwon/cafeNbakery/4.png": "2e0c1efc14c1ee9c0a265c3ad53debcc",
 "assets/assets/eat/sudogwon/cafeNbakery/2.png": "a417780e5f8052a179373e795375e2c5",
 "assets/assets/eat/sudogwon/cafeNbakery/3.png": "a2ba02d7cac7e40a2bd96b6b88b2d67b",
@@ -68,6 +68,7 @@ const RESOURCES = {
 "assets/assets/jeju/3.jpeg": "ece01359cf01a3c9a30cf98e5b6420b6",
 "assets/assets/jeju/2.jpg": "ae0cd50567e1d69a70e4f9b2573a8f31",
 "assets/assets/jeju/1.png": "63ac7ecfbeb23a22b9afb4608d772f94",
+"assets/assets/icn_40_back.png": "d751aa9bd890401a6b7944026c807037",
 "assets/assets/yolo1/4.png": "754360fd2f3d3f8273def0be1e24ac7a",
 "assets/assets/yolo1/6.png": "5a8fafbae13d12ffabd98b0d85b4b3e7",
 "assets/assets/yolo1/7.png": "c5deb6da0afc8f5e9b948902a42986b9",
@@ -83,14 +84,14 @@ const RESOURCES = {
 "assets/fonts/NotoSansCJKkr/NotoSansKR-Bold.otf": "b59ac7cf449e57469daf2480fafbddf4",
 "assets/fonts/Inter/static/Inter-Regular.ttf": "515cae74eee4925d56e6ac70c25fc0f6",
 "assets/fonts/Inter/static/Inter-ExtraBold.ttf": "bd9525f1099e9f5845f6aef2956e9fb8",
-"assets/NOTICES": "4a50d0d4d2d41316ff747f08d090efe1",
+"assets/NOTICES": "17ed21add6b857178ab882ac3cca711f",
 "assets/FontManifest.json": "c42b0d53b83853f7b0872011561ffc0b",
-"assets/AssetManifest.json": "432da2e8cb217487fa671582948330c6",
+"assets/AssetManifest.json": "f171d9df076dec42c7e625c947bd4e3f",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "e0cb228224a11b6f0d6da96bdde9992a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "37db39c2a2cb6b51c55bdf492405489c",
+"main.dart.js": "7b555b9a4b3baf246768651c532b8508",
 "version.json": "56a467f92189608ae9e57b3f701bdc33"
 };
 
