@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "7a1d92908601c324dbf0c94187c161e5",
-"/": "7a1d92908601c324dbf0c94187c161e5",
+  "index.html": "bda3cf3b454320ce423fd6591e71e930",
+"/": "bda3cf3b454320ce423fd6591e71e930",
 "assets/assets/eat/sudogwon/cafeNbakery/4.png": "2e0c1efc14c1ee9c0a265c3ad53debcc",
 "assets/assets/eat/sudogwon/cafeNbakery/2.png": "a417780e5f8052a179373e795375e2c5",
 "assets/assets/eat/sudogwon/cafeNbakery/3.png": "a2ba02d7cac7e40a2bd96b6b88b2d67b",
@@ -91,7 +91,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "e0cb228224a11b6f0d6da96bdde9992a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "7b555b9a4b3baf246768651c532b8508",
+"main.dart.js": "f0425013be22b0463f00a6caad4623b2",
 "version.json": "56a467f92189608ae9e57b3f701bdc33"
 };
 
