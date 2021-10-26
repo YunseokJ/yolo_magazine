@@ -57304,16 +57304,18 @@ F(a,b){var s=null,r=this.c
 r=r.z===!0?new A.FF(r,s):new A.FG(r,s)
 return A.ar(A.a([r,this.d?A.S(s,0,s):A.dg(new A.q(4292861919),1)],t.p),B.i)}}
 A.rD.prototype={
-F(a,b){var s,r,q,p,o,n,m,l=null,k=t.w,j=b.E(k).f.a.b,i=b.E(k).f.a.a
-k=0.0556*i
-s=0.0316*j
-r=A.eC(!1,!0,A.dw("assets/close_icon.png",l,s,l),l,!0,l,l,l,l,l,l,l,l,l,new A.Qb(),l)
-q=A.S(l,0.0237*j,l)
-p=A.fr(A.v("\uc9c0\ub09c \uc6d4\uac04\ud638",A.ab(l,l,new A.q(4279440147),l,l,l,l,l,l,l,l,13,l,B.x,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,l)
-o=A.S(l,0.0303*j,l)
-n=0.0278*i
-m=0.0263*j
-return new A.AV(A.b9(l,A.ar(A.a([r,q,p,o,this.c?A.afV(new A.Ft(2,m,n),new A.Qc(),4,!0):A.afV(new A.Ft(2,m,n),new A.Qd(),1,!0)],t.p),B.C),l,l,l,l,new A.aw(k,s,k,s),l),l)}}
+F(a,b){var s,r,q,p,o,n,m,l,k=null,j=t.w,i=b.E(j).f.a.b,h=b.E(j).f.a.a
+j=0.0556*h
+s=0.0316*i
+r=A.eC(!1,!0,A.dw("assets/close_icon.png",k,s,k),k,!0,k,k,k,k,k,k,k,k,k,new A.Qb(),k)
+q=A.S(k,0.0237*i,k)
+p=this.c
+o=p?"\ud604\uc7ac \uc6d4\uac04\ud638":"\uc9c0\ub09c \uc6d4\uac04\ud638"
+o=A.fr(A.v(o,A.ab(k,k,new A.q(4279440147),k,k,k,k,k,k,k,k,13,k,B.x,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k)
+n=A.S(k,0.0303*i,k)
+m=0.0278*h
+l=0.0263*i
+return new A.AV(A.b9(k,A.ar(A.a([r,q,o,n,p?A.afV(new A.Ft(2,l,m),new A.Qc(),4,!0):A.afV(new A.Ft(2,l,m),new A.Qd(),1,!0)],t.p),B.C),k,k,k,k,new A.aw(j,s,j,s),k),k)}}
 A.Qb.prototype={
 $0(){A.BL($.aC())},
 $S:0}
